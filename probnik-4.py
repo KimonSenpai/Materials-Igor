@@ -3,6 +3,7 @@ mas = [int(val) for val in input().split()]
 
 mx = max(mas)
 
+
 s = 0
 i = 0
 while i < len(mas):
